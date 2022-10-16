@@ -1,4 +1,4 @@
-### Olá! Me chamo Guilherme Novais e sou um entusiasta da programação.
+### Olá! Me chamo Guilherme e sou um entusiasta da programação.
 
 <div align="center">
   <a href="https://github.com/guiga18br">
