@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/gui18br">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gui18br&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui18br&layout=compact&theme=tokyonight&langs_count=6">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gui18br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui18br&layout=compact&theme=dracula&langs_count=6">
   </a>
 </div>
 
